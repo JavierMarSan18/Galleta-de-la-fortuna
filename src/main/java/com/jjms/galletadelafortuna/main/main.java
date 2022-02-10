@@ -93,6 +93,7 @@ public class main extends javax.swing.JFrame {
         getContentPane().add(jPanel1);
 
         pack();
+        setLocationRelativeTo(null);
     }// </editor-fold>//GEN-END:initComponents
 
     private void btnVerFortunaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnVerFortunaActionPerformed
